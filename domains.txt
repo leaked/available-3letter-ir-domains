@@ -1,4 +1,3 @@
-zw2.ir
 00c.ir
 00j.ir
 01f.ir
@@ -17097,6 +17096,7 @@ zu8.ir
 zu9.ir
 zw0.ir
 zw1.ir
+zw2.ir
 zw3.ir
 zw4.ir
 zw5.ir
